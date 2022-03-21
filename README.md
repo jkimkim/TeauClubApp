@@ -1,6 +1,9 @@
 # TeauClubApp
 The East African University Club App By the teau-ict-club
 
+## App Design and UI
+https://bit.ly/TeauMobileApp
+
 
 ## Installation
 You can install a production build from <a href="https://github.com/teau-ict-club/TeauClubApp/releases"> here</a>
