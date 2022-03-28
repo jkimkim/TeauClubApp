@@ -30,7 +30,7 @@ This project is currently mantained by:
 * [Chalie](http://github.com/Chal13W1zz)
 
 #### Honorable Contributors
-* <a href="https://github.com/">John Doe</a> 
+* <a href="https://github.com/jkimkim">Jkimkim</a> 
 * <a href="https://github.com/">John Doe</a>
 * <a href="https://github.com/">John Doe</a> 
 * <a href="https://github.com/">John Doe</a>
