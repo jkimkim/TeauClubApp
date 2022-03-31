@@ -42,16 +42,18 @@ This project is currently mantained by:
 - Parceler
 - Firebase
 
-
 ## Contributing
 
-1. Fork it to your repo
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -m 'Add some feature')
-4. Push your branch (git push origin my-new-feature)
-5. Create a new Pull Request
+1. Fork it!
+2. Checkout the development branch: `git checkout development`
+3. Create your feature branch: `git checkout -b my-new-feature`
+4. Add your changes to the index: `git add .`
+5. Commit your changes: `git commit -m 'Add some feature'`
+6. Push to the branch: `git push origin my-new-feature`
+7. Submit a pull request against the `development` branch
 
 #### NB: fill in this form https://forms.gle/ayucb76GdYnL3khq6 to be added as a project contributor
+
 
 ## Bugs
 - No Known Bugs
